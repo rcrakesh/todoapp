@@ -1,4 +1,4 @@
-## todo website 
+## todo website ## tech stack [MERN]
 
 - anyone can add the todo 
 - anyone can delete the todo 
