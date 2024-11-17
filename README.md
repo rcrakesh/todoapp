@@ -1,4 +1,4 @@
-## todo website 
+## todo website ## tech stack [MERN]
 
 - anyone can add the todo 
 - anyone can delete the todo 
@@ -17,4 +17,7 @@ reactjs
  - components 
  + create todo 
  + todos
+<<<<<<< HEAD
  
+=======
+>>>>>>> a699fbed07235f1a0120ce03d06ceb08a5f37b14
